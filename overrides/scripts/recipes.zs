@@ -52,7 +52,7 @@ recipes.addShaped("enchantedGoldenApple", enchantedGoldenApple, [[goldBlock,gold
 recipes.addShaped("totemOfUndying", totemOfUndying, [[null,emerald,null], [goldIngot,goldBlock,goldIngot], [null,netherStar,null]]);
 recipes.addShaped("dragonHead", dragonHead, [[null,obsidian], [dragonEgg,null], [null,obsidian]]);
 recipes.addShaped("wetSponge0", wetSponge, [[prismarineCrystals,prismarineShard,prismarineCrystals], [prismarineShard,sand1,prismarineShard], [prismarineCrystals,prismarineShard,prismarineCrystals]]);
-recipes.addShaped("wetSponge0", wetSponge, [[prismarineShard,prismarineCrystals,prismarineShard], [prismarineShard,sand1,prismarineCrystals], [prismarineShard,prismarineCrystals,prismarineShard]]);
+recipes.addShaped("wetSponge1", wetSponge, [[prismarineShard,prismarineCrystals,prismarineShard], [prismarineShard,sand1,prismarineCrystals], [prismarineShard,prismarineCrystals,prismarineShard]]);
 recipes.addShaped("redSand", redSand1, [[sand1,sand1,sand1], [sand1,roseRed,sand1], [sand1,sand1,sand1]]);
 recipes.addShaped("sand", sand2, [[redSand0, redSand0, redSand0], [redSand0, boneMeal, redSand0], [redSand0, redSand0, redSand0]]);
 recipes.addShaped("deadBush", deadBush, [[stick, null, stick], [stick, stick, stick], [null, stick, null]]);
