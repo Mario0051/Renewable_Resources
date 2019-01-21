@@ -77,7 +77,7 @@
     {
       "projectID": 274456,
       "fileID": 2618773,
-      "required": false
+      "required": true
     }
   ],
   "overrides": "overrides"
