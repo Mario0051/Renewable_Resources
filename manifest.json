@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2825",
+        "id": "forge-14.23.5.2836",
         "primary": true
       }
     ]
@@ -11,12 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Renewable Resources",
-  "version": "1.6",
+  "version": "1.7",
   "author": "mario3264",
   "files": [
     {
       "projectID": 268560,
-      "fileID": 2695600,
+      "fileID": 2701541,
       "required": true
     },
     {
@@ -61,12 +61,12 @@
     },
     {
       "projectID": 288885,
-      "fileID": 2676550,
+      "fileID": 2702816,
       "required": true
     },
     {
       "projectID": 299540,
-      "fileID": 2690882,
+      "fileID": 2700281,
       "required": true
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "projectID": 225643,
-      "fileID": 2677096,
+      "fileID": 2698039,
       "required": true
     }
   ],
