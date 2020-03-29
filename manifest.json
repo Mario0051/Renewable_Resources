@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Renewable Resources",
-  "version": "1.9",
+  "version": "2.0",
   "author": "mario_51",
   "files": [
     {
@@ -47,6 +47,11 @@
     {
       "projectID": 299540,
       "fileID": 2706111,
+      "required": true
+    },
+    {
+      "projectID": 248453,
+      "fileID": 2785465,
       "required": true
     },
     {
