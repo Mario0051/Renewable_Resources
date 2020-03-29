@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "Renewable Resources",
   "version": "1.9",
-  "author": "mario_51",
+  "author": "mario3264",
   "files": [
     {
       "projectID": 239197,
@@ -47,11 +47,6 @@
     {
       "projectID": 299540,
       "fileID": 2706111,
-      "required": true
-    },
-    {
-      "projectID": 248453,
-      "fileID": 2785465,
       "required": true
     },
     {
