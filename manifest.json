@@ -11,38 +11,13 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Renewable Resources",
-  "version": "2.2",
+  "version": "2.3",
   "author": "mario_51",
   "projectID": 307637,
   "files": [
     {
-      "projectID": 239197,
-      "fileID": 2838090,
-      "required": true
-    },
-    {
-      "projectID": 248453,
-      "fileID": 2785465,
-      "required": true
-    },
-    {
       "projectID": 269359,
       "fileID": 2737879,
-      "required": true
-    },
-    {
-      "projectID": 274456,
-      "fileID": 2817545,
-      "required": true
-    },
-    {
-      "projectID": 283644,
-      "fileID": 2694382,
-      "required": true
-    },
-    {
-      "projectID": 280294,
-      "fileID": 2859408,
       "required": true
     },
     {
@@ -51,8 +26,23 @@
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 2803400,
+      "projectID": 239197,
+      "fileID": 2926879,
+      "required": true
+    },
+    {
+      "projectID": 270140,
+      "fileID": 2516748,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 274456,
+      "fileID": 2817545,
       "required": true
     },
     {
@@ -61,8 +51,43 @@
       "required": true
     },
     {
+      "projectID": 285742,
+      "fileID": 2775709,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2803400,
+      "required": true
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "required": true
+    },
+    {
+      "projectID": 248453,
+      "fileID": 2785465,
+      "required": true
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2915154,
+      "required": true
+    },
+    {
       "projectID": 278494,
       "fileID": 2845668,
+      "required": true
+    },
+    {
+      "projectID": 280294,
+      "fileID": 2859408,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 2694382,
       "required": true
     },
     {
@@ -76,28 +101,8 @@
       "required": true
     },
     {
-      "projectID": 299540,
-      "fileID": 2706111,
-      "required": true
-    },
-    {
-      "projectID": 285742,
-      "fileID": 2775709,
-      "required": true
-    },
-    {
-      "projectID": 292785,
-      "fileID": 2639533,
-      "required": true
-    },
-    {
-      "projectID": 270140,
-      "fileID": 2516748,
-      "required": true
-    },
-    {
-      "projectID": 229876,
-      "fileID": 2483393,
+      "projectID": 354143,
+      "fileID": 2909182,
       "required": true
     }
   ],
