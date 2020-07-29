@@ -11,15 +11,10 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Renewable Resources",
-  "version": "2.4",
+  "version": "2.5",
   "author": "mario_51",
   "projectID": 307637,
   "files": [
-    {
-      "projectID": 308137,
-      "fileID": 2971432,
-      "required": true
-    },
     {
       "projectID": 318255,
       "fileID": 2919497,
@@ -46,6 +41,11 @@
       "required": true
     },
     {
+      "projectID": 248453,
+      "fileID": 2785465,
+      "required": true
+    },
+    {
       "projectID": 269359,
       "fileID": 2737879,
       "required": true
@@ -53,6 +53,11 @@
     {
       "projectID": 274456,
       "fileID": 2817545,
+      "required": true
+    },
+    {
+      "projectID": 233255,
+      "fileID": 2560971,
       "required": true
     },
     {
@@ -72,12 +77,12 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2803400,
+      "fileID": 2988828,
       "required": true
     },
     {
-      "projectID": 256717,
-      "fileID": 2666198,
+      "projectID": 309110,
+      "fileID": 2655843,
       "required": true
     },
     {
@@ -86,8 +91,18 @@
       "required": true
     },
     {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true
+    },
+    {
       "projectID": 278494,
       "fileID": 2845668,
+      "required": true
+    },
+    {
+      "projectID": 274341,
+      "fileID": 2991671,
       "required": true
     },
     {
@@ -101,8 +116,13 @@
       "required": true
     },
     {
-      "projectID": 258205,
-      "fileID": 2948679,
+      "projectID": 366140,
+      "fileID": 2898681,
+      "required": true
+    },
+    {
+      "projectID": 237701,
+      "fileID": 2560638,
       "required": true
     },
     {
@@ -111,8 +131,8 @@
       "required": true
     },
     {
-      "projectID": 285612,
-      "fileID": 2943191,
+      "projectID": 319382,
+      "fileID": 2698789,
       "required": true
     },
     {
